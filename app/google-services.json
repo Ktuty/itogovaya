@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558890469018",
+    "project_id": "itogovayaapp",
+    "storage_bucket": "itogovayaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558890469018:android:81929ee6d06988b02bc123",
+        "android_client_info": {
+          "package_name": "com.example.itogovaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEscRT5-mi6DMp4HAqvd3BuJiVlKIxZrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
