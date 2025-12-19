@@ -11,7 +11,6 @@
         android:orientation="vertical"
         android:padding="16dp">
 
-        <!-- Блок с выбором фото полностью удален -->
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"

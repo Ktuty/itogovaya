@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // Указываем полный URL базы данных из логов
         val dbUrl = "https://itogovayaapp-default-rtdb.europe-west1.firebasedatabase.app"
         database = FirebaseDatabase.getInstance(dbUrl).getReference("plants")
 
